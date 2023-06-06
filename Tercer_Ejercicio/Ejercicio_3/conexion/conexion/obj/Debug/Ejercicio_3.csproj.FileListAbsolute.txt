@@ -1,0 +1,3 @@
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.pdb

@@ -1,0 +1,28 @@
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.exe.config
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.Form1.resources
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\EJER 3\Ejercicio_3\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
