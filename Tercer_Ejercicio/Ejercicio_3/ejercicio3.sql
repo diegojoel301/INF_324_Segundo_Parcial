@@ -1,18 +1,13 @@
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
+CREATE DATABASE Ejercicio3;
+use Ejercicio3;
 CREATE TABLE `datos` (
-  `Id` int(11) NOT NULL,
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
   `Nombre` varchar(150) DEFAULT NULL,
   `R1` int(11) DEFAULT NULL,
   `G1` int(11) DEFAULT NULL,
   `B1` int(11) DEFAULT NULL,
   `R2` int(11) DEFAULT NULL,
   `G2` int(11) DEFAULT NULL,
-  `B2` int(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
-ALTER TABLE `datos`
-  ADD PRIMARY KEY (`Id`);
-ALTER TABLE `datos`
-  MODIFY `Id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  `B2` int(11) DEFAULT NULL,
+  PRIMARY KEY(Id)
+);
